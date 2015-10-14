@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kakeibo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="arr1">
+        <item>食費</item>
+        <item>交通費</item>
+        <item>娯楽費</item>
+        <item>光熱費</item>
+        <item>学業費</item>
+        <item>サークル費</item>
+        <item>その他</item>
+    </string-array>
+
+    <string name="beforedayLabel">前日</string>
+    <string name="nextdayLabel">翌日</string>
+    <string name="MonthLabel">月別</string>
+    <string name="CalenderLabel">ｶﾚﾝﾀﾞｰ</string>
+    <string name="KoumokuLabel">+</string>
+    <string name="beforeLabel">前月</string>
+    <string name="nextLabel">翌月</string>
+    <string-array name="Main_dish">
+        <item>無し</item>
+        <item>クリームチーズバーグ</item>
+        <item>チキンおろしだれ</item>
+        <item>スンドゥブ</item>
+        <item>海老カツ</item>
+        <item>豆乳煮</item>
+        <item>ささみチーズカツ</item>
+        <item>豚生姜焼き</item>
+        <item>デミグラスハンバーグ</item>
+        <item>サバの味噌煮</item>
+        <item>秋刀魚の塩焼き</item>
+        <item>大根と豚肉の味噌あん</item>
+        <item>カニクリームコロッケ</item>
+        <item>旨辛豆腐</item>
+        <item>麻婆豆腐</item>
+    </string-array>
+    <string-array name="Side_dish">
+        <item>無し</item>
+        <item>バランス惣菜</item>
+        <item>いももち</item>
+        <item>揚げ出し豆腐</item>
+        <item>ほうれん草のゴマ和え</item>
+        <item>揚げ餃子</item>
+        <item>五目ひじき</item>
+        <item>煮玉子</item>
+        <item>牛とろコロッケ</item>
+        <item>冷奴</item>
+        <item>カボチャの煮物</item>
+        <item>きんぴらごぼう</item>
+        <item>オクラとモロヘイヤのおひたし</item>
+        <item>揚げ茄子キムチ和え</item>
+        <item>大根おろし</item>
+        <item>彩りサラダ</item>
+        <item>ポテトコーン＆サラダ</item>
+    </string-array>
+    <string-array name="Rice">
+        <item>無し</item>
+        <item>ごはん（小）</item>
+        <item>ごはん（中）</item>
+        <item>ごはん（大）</item>
+        <item>麦飯（小）</item>
+        <item>麦飯（中）</item>
+        <item>麦飯（大）</item>
+    </string-array>
+    <string-array name="Donburi_and_curry">
+        <item>無し</item>
+        <item>特選ハンバーグ丼（小）</item>
+        <item>特選ハンバーグ丼（中）</item>
+        <item>特選ハンバーグ丼（大）</item>
+        <item>パワー丼（小）</item>
+        <item>パワー丼（中）</item>
+        <item>パワー丼（大）</item>
+        <item>チキン竜田丼（小）</item>
+        <item>チキン竜田丼（中）</item>
+        <item>チキン竜田丼（大）</item>
+        <item>豚玉丼（小）</item>
+        <item>豚玉丼（中）</item>
+        <item>豚玉丼（大）</item>
+        <item>ネギ塩から揚げ丼（小）</item>
+        <item>ネギ塩から揚げ丼（中）</item>
+        <item>ネギ塩から揚げ丼（大）</item>
+        <item>カレーライス（小）</item>
+        <item>カレーライス（中）</item>
+        <item>カレーライス（大）</item>
+        <item>カツカレーライス（小）</item>
+        <item>カツカレーライス（中）</item>
+        <item>カツカレーライス（大）</item>
+    </string-array>
+    <string-array name="nudle">
+        <item>無し</item>
+        <item>台湾ラーメン</item>
+        <item>台湾ラーメン（大）</item>
+        <item>唐揚げらーめん</item>
+        <item>唐揚げらーめん（大）</item>
+        <item>味噌らーめん</item>
+        <item>味噌らーめん（大）</item>
+        <item>肉野菜そば</item>
+        <item>かき揚げそば</item>
+        <item>釜玉そば</item>
+        <item>ほうとう風うどん</item>
+        <item>肉野菜うどん</item>
+        <item>かき揚げうどん</item>
+        <item>釜玉うどん</item>
+    </string-array>
+    <string-array name="soup">
+        <item>無し</item>
+        <item>豚汁（小）</item>
+        <item>豚汁</item>
+        <item>わかめと豆腐のお味噌汁</item>
+    </string-array>
+    <string-array name="dessert">
+        <item>無し</item>
+        <item>ストロベリーティラミス</item>
+        <item>ベイクドチーズケーキ</item>
+        <item>プラリネトルネ</item>
+        <item>ヘーゼルナッツ＆モカ</item>
+        <item>レモンケーキ</item>
+        <item>いちごトルテ</item>
+        <item>杏仁豆腐</item>
+    </string-array>
+
+    <string name="sumLabel">sum</string>
+
+    <string name="Maindish_Label">メインディッシュ</string>
+
+    <string name="Sidedish_Label">サイドディッシュ</string>
+
+    <string name="Rice_Label">ライス</string>
+
+    <string name="Don_Curry_Label">丼＆カレー</string>
+
+    <string name="noodle_Label">麺類</string>
+
+    <string name="Soup_Label">スープ</string>
+
+    <string name="Desert_Label">デザート</string>
+
+    <string name="TextViewLabel"></string>
+
+    <string name="Graph_Label">グラフ</string>
+
+</resources>
